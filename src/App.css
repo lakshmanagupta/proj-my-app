@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+.image {
+  margin-top: 5%;
+  width: 100%;
+  height: 80%;
+}
+
+.image1 {
+  float: left;
+  width: 34%;
+  height: auto;
+}
