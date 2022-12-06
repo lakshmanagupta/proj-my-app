@@ -77,6 +77,16 @@
         "genres" : "horror"
       },
       {
+        "id": 8,
+        "type": "poster",
+        "rank": 4,
+        "synopsis": "Directed by James Wan featuring Vera Farmiga, Patrick Wilson, Lili Taylor and Ron Livingston, the film revolves around Carolyn (Lili Taylor) and Roger Perron (Ron Livingston) who move into an island farm with their family and soon strange things happen to them, along with escalating nightmare terrors.",
+        "title": "The Conjuring",
+        "imageUrl": "https://m.media-amazon.com/images/M/MV5BMTM3NjA1NDMyMV5BMl5BanBnXkFtZTcwMDQzNDMzOQ@@._V1_FMjpg_UX1000_.jpg",
+        "releaseDate": 2013,
+        "genres" : "horror"
+      },
+      {
         "id": 6,
         "type": "poster",
         "rank": 4,
