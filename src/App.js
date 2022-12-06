@@ -1,4 +1,4 @@
-import "./App.css";
+import "./App.scss";
 import movieData from "./utils.json";
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
